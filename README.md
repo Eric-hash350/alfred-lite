@@ -1,2 +1,2 @@
-# alfrd-lite
+# alfred-lite
 Assistant vocale simplifié pour le gîte
